@@ -1,4 +1,5 @@
 // Require the necessary discord.js classes
+// To do : Add leaderboard, add help command, add check point command
 const fs = require("node:fs");
 const path = require("node:path");
 const { Client, Collection, Events, GatewayIntentBits } = require("discord.js");
